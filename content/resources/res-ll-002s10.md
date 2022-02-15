@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010/5e03253b8586b98feac89990a897f818_res-ll-002s10.gif
+file: /media/courses/res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010/5e03253b8586b98feac89990a897f818_res-ll-002s10.gif
 file_type: image/gif
 image_metadata:
   caption: Block diagram of the transmitter in a phased array antenna system. (Image
@@ -9,6 +9,8 @@ image_metadata:
   credit: ''
   image-alt: Block diagram of phased array antenna transmitter, showing the RF source
     being split among multiple amplifiers and antenna elements.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: res-ll-002s10.gif
 uid: 5e03253b-8586-b98f-eac8-9990a897f818
