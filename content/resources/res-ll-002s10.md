@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Block diagram of phased array antenna transmitter, showing the RF source
     being split among multiple amplifiers and antenna elements.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-ll-002s10.gif
