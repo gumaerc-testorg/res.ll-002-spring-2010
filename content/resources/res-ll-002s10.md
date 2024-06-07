@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010/5e03253b8586b98feac89990a897f818_res-ll-002s10.gif
+file_size: 10063
 file_type: image/gif
 image_metadata:
   caption: Block diagram of the transmitter in a phased array antenna system. (Image
