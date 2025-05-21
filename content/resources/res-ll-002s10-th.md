@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010/e45b40098a069b79911d7761eda6f719_res-ll-002s10-th.jpg
+file: /courses/res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010/e45b40098a069b79911d7761eda6f719_res-ll-002s10-th.jpg
 file_size: 6449
 file_type: image/jpeg
 image_metadata:
